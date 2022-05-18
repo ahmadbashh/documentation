@@ -1,7 +1,7 @@
 <?php
 
 // API key
-define('API_KEY', '<YOUR_API_KEY>'); // (Get your API key here: https://app.rytr.me/account/api-access)
+define('API_KEY', '<chrexec_ed4621ed38035c777aba3d8752ae5e90>'); // (Get your API key here: https://app.rytr.me/account/api-access)
 
 // API endpoint
 define('API_URL', 'https://api.rytr.me/v1');
